@@ -1,5 +1,5 @@
 # Algorithm-and-data-structure
-In this repository you will find codes developed in C programming lineage with a focus on the development of algorithms and data structures.
+In this repository you will find codes developed in C programming language with a focus on the development of algorithms and data structures.
 
 <h1>Content 📚</h1>
 
