@@ -1,3 +1,6 @@
+/*This algorithm uses the concept of greedy algorithms and the heap data 
+structure to find the optimal solution to the problem.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
