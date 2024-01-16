@@ -13,3 +13,4 @@ In this repository you will find codes developed in C programming language with 
 8)  Enumeration algorithm
 9)  Binary trees
 10) Search tree
+11) Programming techniques: Greedy algorithms, dynamic programming, brute force and linear programming
