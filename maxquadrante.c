@@ -1,3 +1,6 @@
+/*This program uses the concept of greedy algorithms and recursion to 
+obtain the maximal quadrants of the respective dimensions*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
